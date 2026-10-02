@@ -1,0 +1,1 @@
+g++ -o main main.cpp WeatherAnalyzer.cpp Candlestick.cpp CandlestickCalculator.cpp CandlestickPlot.cpp Filters.cpp Predictor.cpp DataParser.cpp
